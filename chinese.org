@@ -1,0 +1,166 @@
+* house
+- 屋子,wūzi,house 
+- 门,mén,door
+- 窗,chuāng,window
+- 桌子,zhuōzi,table
+- 椅子,yǐzi,chair
+- 沙发,shāfā,couch
+- 楼梯,lóutī,stairs
+- 床,chuáng,bed
+- 毯子,tǎnzi,blanket
+- 枕头,zhěntou,pillow
+- 台灯,táidēng,lamp
+- 电灯开关,diàndēng kāiguān, light switch
+- 衣橱,yī chú, closet
+- 抽屉,chōutì,drawer
+- 厕所,cè sûo,bathroom
+- 厨房,chú fáng,kitchen
+- 饭厅,fàntīng,dining room
+
+
+* actions
+- 关灯,guān dēng,turn off the light
+- 开灯,kāi dēng,turn on the light
+- 开电扇,kāi diànshàn,turn on the fan
+- 关电扇,guān diànshàn,turn off the fan
+- 一起来玩把,yī qǐlái wán bǎ!, lets play!
+
+* color
+- 颜色,yánsè,colors
+- 红,hóng,red
+- 黄,huáng,yellow
+- 蓝,lán,blue
+- 橘,jú,orange
+- 绿,lù,green
+- 紫,Zǐ,purple
+- 黑,hēi,black
+- 白,bái,white
+- 灰,huī,grey
+- 粉红,fěnhóng,pink
+- 棕,zōng,brown
+
+* clothes
+- 鞋子,xiézi,shoes
+- 袜子,wàzi,sock
+- 裤子,kùzi,pants
+- 衬衣,chènyī,shirt
+- 短裤,duǎnkù,shorts
+- 帽子,màozi,hat
+- 连衣裙,liányīqún,dress
+- 半身裙,bànshēn qún,skirt
+- 凉鞋,liángxié,sandals
+- 靴子,xuēzi,boots
+- 外套,wàitào,coat
+- 雨伞,yǔsǎn,umbrella
+
+* verbs
+- 开,kāi,turn on
+- 关,guān,turn off
+
+* toys
+- 玩具,wánjù,toy
+- 皮球,píqiú,ball
+- 拼图,pīntú,puzzle
+- 气球,qìqiú,balloon
+- 洋娃娃,yángwáwá,doll
+
+* objects
+- 书,shū,book
+- 盒子,hézi,box
+- 钢笔,gāngbǐ,pen
+- 蜡笔,làbǐ,crayons
+- 纸张,zhǐzhāng,paper
+- 铅笔,qiānbǐ,pencil
+- 电扇,diànshàn,fan
+
+* vehicles
+- 卡车,kǎchē,truck
+- 汽车,qìchē,car
+- 火车,huǒchē,train
+- 飞机,fēijī,airplane
+
+* body
+- 头,tóu,head
+- 眼睛,yǎnjīng,eye
+- 鼻子,bízi,nose
+- 耳朵,ěrduǒ,ears
+- 头发,tóufǎ,hair
+- 嘴,zuǐ,mouth
+- 嘴唇,zuǐchún,lips
+- 舌头,shétou,tongue
+- 牙齿,yáchǐ,teeth
+- 下巴,xiàbā,chin
+- 肩膀,jiānbǎng,shoulder
+- 手臂,shǒubì,arm
+- 手,shǒu,hand
+- 双手,shuāngshǒu,hands
+- 手指,shǒuzhǐ,finger
+- 脖子,bózi,neck
+- 腿,tuǐ,eg
+- 双腿,shuāng tuǐ,legs
+- 脚,jiǎo,foot
+- 双脚,shuāng jiǎo,feet
+- 脚趾,jiǎozhǐ,toe
+
+* family
+- 家庭,jiātíng,family
+- 父亲,fùqīn,father
+- 爸爸,bàba,dad
+- 母亲,mǔqīn,mother
+- 妈妈,māmā,mom
+- 父母,fùmǔ,parents
+- 儿子,erzi,son
+- 女儿,nǚ'ér,daughter
+- 孩子们,háizimen,children
+- 兄弟,xiōngdì,brother
+- 姐妹,jiěmèi,sister
+- 弟弟,dìdì,younger brother
+- 妹妹,mèimei,younger sister
+- 哥哥,gēgē,older brother
+- 姐姐,jiějiě,older sister
+- 宝宝,bǎobǎo,baby
+- 叔叔,shūshu,uncle
+- 阿姨,āyí,aunt
+- 爷爷,yéyé,grandfather
+- 奶奶,nǎinai,grandmother
+
+* color+se de "thing"
+- 棕色的桌子,zōngsè de zhuōzi,bown table
+- 红色的鞋,hóngsè de xié,red shoe
+- 灰色的椅子,huīsè de yǐzi,grey chair
+- 橘色的沙发,jú sè de shāfā, orange couch
+
+* fruits 
+- 苹果,píng guǒ,apple
+- 草莓,cǎo méi,strawberry
+- 香蕉,xiāng jiāo,banana
+- 橙子,chéng zi,orange
+- 葡萄,pú táo,grape
+- 樱桃,yīng táo,cherry
+- 菠萝,bō lúo,pineapple
+- 猕猴桃,mí hóu táo,kiwi
+- 桃子,táo zi,peach
+- 西瓜,xī gūa,watermelon
+- 香瓜,xiāng gūa,melon
+
+* drinks
+- 水,shuî,water
+- 啤酒,bí jiû,beer
+- 茶,chá,tea
+- 冰水,bīng shûi,cold water
+- 热水,rè shûi,hot water
+- 红酒,hóng jiû,red wine
+- 牛奶,niú nâi,milk
+- 咖啡,kā fēi,cafe
+ 
+
+* quantitative + color
+- 七本绿色的书,qī běn lùsè de shū, seven green books
+- 三辆黄色的汽车,sān liàng huángsè de qìchē,three yellow cars
+- 九个红色的气球,jiǔ gè hóngsè de qìqiú,nine red balloons
+- 五块蓝色的拼图,wǔ kuài lán sè de pīntú,five blue puzzles
+- 六个紫色的皮球,liù gè zǐsè de píqiú,six purple balls
+- 八个粉红色的洋娃娃,bā gè fěnhóng sè de yángwáwá,eight pink dolls
+- 四列黑色的火车,sì liè hēisè de huǒchē,four black trains
+
+
