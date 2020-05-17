@@ -16,7 +16,7 @@
 - 厕所,cè sûo,bathroom
 - 厨房,chú fáng,kitchen
 - 饭厅,fàntīng,dining room
-
+- 房间,fángjiā,room
 
 * actions
 - 关灯,guān dēng,turn off the light
@@ -56,7 +56,54 @@
 * verbs
 - 开,kāi,turn on
 - 关,guān,turn off
-
+- 唱歌,chànggē,sing
+- 准备,zhǔnbèi,to prepare
+- 懂,Dǒng,to understand
+- 告诉,gàosù,tell
+- 笑,xiào,laugh
+- 帮助,bāngzhù,help
+- 用,yòng,use
+- 能,néng,can
+- 离,lí,to be away from
+- 说话,shuōhuà,speak
+- 觉得,juédé,think/feel
+- 休息,xiūxí,to rest
+- 要,yào,want
+- 希望,xīwàng,to hope/to wish
+- 回去,huíqu,to go back
+- 送,sòng,to give (as a present)
+- 旅行,lǚxíng,to travel
+- 散步,sànbù,to go for a walk
+- 打球,dǎqiú,play
+- 生活,shēnghuó,to live/life
+- 进步,jìnbù,to make progress
+- 交朋友,jiāo péngyǒu,to make friends
+* advererb
+- 一起,Yīqǐ,together
+- 再,zài,again
+- 这儿,zhè'er,here
+- 已经,yǐjīng,already
+- 还,hái,still
+- 远,yuǎn,far
+- 近,jìn,close
+* directions
+- 往,wǎng,towards,
+- 右边,yòubiān,right hand side
+- 左边,zuǒbiān,left hand side
+* pronoun
+- 大家,dàjiā,everyone
+* preposition
+- 从,cóng,from
+* aux.
+- 可能,kěnéng,probably
+- 可以,kěyǐ,may
+- 要,yào,want
+* adjectives
+- 好吃,hào chī,delicious
+- 高,gāo,tall
+- 矮,ǎi,short
+- 新,xīn,new
+- 开心,kāixīn,happy/joyful
 * toys
 - 玩具,wánjù,toy
 - 皮球,píqiú,ball
@@ -72,6 +119,15 @@
 - 纸张,zhǐzhāng,paper
 - 铅笔,qiānbǐ,pencil
 - 电扇,diànshàn,fan
+- 手表,shǒubiǎo,watch
+- 碗,wǎn,bowl
+- 盘子,pánzi,plate
+- 被子,bèizi,glass
+- 刀,dāo,knife
+- 叉子,chāzi,fork
+- 勺子,sháozi,spoon
+- 筷子,kuàizi,chopsticks
+- 酒杯,jiǔbēi,wine glass
 
 * vehicles
 - 卡车,kǎchē,truck
@@ -131,6 +187,7 @@
 - 橘色的沙发,jú sè de shāfā, orange couch
 
 * fruits 
+- 水果,shuǐguǒ,fruit
 - 苹果,píng guǒ,apple
 - 草莓,cǎo méi,strawberry
 - 香蕉,xiāng jiāo,banana
@@ -142,7 +199,6 @@
 - 桃子,táo zi,peach
 - 西瓜,xī gūa,watermelon
 - 香瓜,xiāng gūa,melon
-
 * drinks
 - 水,shuî,water
 - 啤酒,bí jiû,beer
@@ -151,16 +207,48 @@
 - 热水,rè shûi,hot water
 - 红酒,hóng jiû,red wine
 - 牛奶,niú nâi,milk
-- 咖啡,kā fēi,cafe
+- 咖啡,kāfēi,cafe
  
-
-* quantitative + color
-- 七本绿色的书,qī běn lùsè de shū, seven green books
-- 三辆黄色的汽车,sān liàng huángsè de qìchē,three yellow cars
-- 九个红色的气球,jiǔ gè hóngsè de qìqiú,nine red balloons
-- 五块蓝色的拼图,wǔ kuài lán sè de pīntú,five blue puzzles
-- 六个紫色的皮球,liù gè zǐsè de píqiú,six purple balls
-- 八个粉红色的洋娃娃,bā gè fěnhóng sè de yángwáwá,eight pink dolls
-- 四列黑色的火车,sì liè hēisè de huǒchē,four black trains
-
-
+* food
+- 面条儿,miàntiáo er,noodle
+- 鸡蛋,jīdàn,egg
+- 饺子,jiǎozi,dumpling
+* days 
+- 星期一,xīngqí yī,monday
+- 星期二,xīngqí'èr,tuesday
+- 星期三,xīngqísān,wednesday
+- 星期四,xīngqísì,thursday
+- 星期五,xīngqíwǔ,friday
+- 星期六,xīngqíliù,saturday
+- 星期日,xīngqírì,sunday
+- 周末,zhōumò,weekend
+* weather
+- 晴天,qíngtiān,sunny day
+- 阴天,yīn tiān,cloudy day
+- 雪,xuě,snow
+- 下雪,xià xuě,snow fall
+- 下雨,xià yǔ,raining
+- 雨,yǔ,rai
+* other
+- 外面,wàimian,outside
+* nouns
+- 报纸,bàozhǐ,newspaper
+- 车站,chēzhàn,station
+- 火车站,huǒchē zhàn,train station
+- 服务员,fúwùyuán,waiter,waitress
+- 考试,kǎoshì,exam
+- 问题,wèntí,question
+- 手机,shǒujī,chellphone
+- 时间,shíjiān,time
+- 事情,shìqíng,matter
+* num
+- 两,liǎng,two
+- 杯,bēi,cup
+- 第一,dì yī,first
+* places
+- 机场,jīchǎnɡ,airport
+- 饭馆儿,fànguǎn er,restaurant
+- 宾馆,bīnguǎn,hotel
+- 超市,chāoshì,supermarket
+- 菜市场,cài shìchǎng,market
+- 地方,dìfang,place
