@@ -4,8 +4,13 @@
 - 有 什么 事情,yǒu shénme shìqíng,what's the matter
 - 现在是几奌,xiànzài shì jǐ diǎn,what time is it?
 - 离 这儿 远 吗,lí zhè'er yuǎn ma,Is it far from here?
-- 你 现在 觉得 怎么样,Nǐ xiànzài juédé zěnme yàng,How do you feel now?
-- 希望 你 早点儿 好,Xīwàng nǐ zǎodiǎn er hǎo,Hope you get better soon
+- 你 现在 觉得 怎么样,nǐ xiànzài juédé zěnme yàng,How do you feel now?
+- 希望 你 早点儿 好,xīwàng nǐ zǎodiǎn er hǎo,Hope you get better soon
+- 请问洗手间在哪里,qǐngwèn xǐshǒujiān zài nǎlǐ,Where is the barthroom?
+- 请进,qǐng jìn,come in
+- 我到了,wǒ dàole,I'm here
+- 让我想一想,ràng wǒ xiǎng yī xiǎng,Let me think about it
+
 
 * quantitative + color
 - 七本绿色的书,qī běn lùsè de shū, seven green books
@@ -19,3 +24,5 @@
 * other
 因为...所以...,yīnwèi... suǒyǐ...,Because of.../... so,..
 虽然...但是...,suīrán... dànshì...,Although.../... but
+* preposition
+今天比昨天暖和,jīntiān bǐ zuótiān nuǎnhuo,Today is warmer than yesterday

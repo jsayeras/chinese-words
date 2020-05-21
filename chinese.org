@@ -32,7 +32,7 @@
 - 蓝,lán,blue
 - 橘,jú,orange
 - 绿,lù,green
-- 紫,Zǐ,purple
+- 紫,zǐ,purple
 - 黑,hēi,black
 - 白,bái,white
 - 灰,huī,grey
@@ -54,30 +54,58 @@
 - 雨伞,yǔsǎn,umbrella
 
 * verbs
+- 喝,hē,drink
+- 吃,chī,eat
 - 开,kāi,turn on
 - 关,guān,turn off
 - 唱歌,chànggē,sing
+- 跳舞,tiàowǔ,dance
 - 准备,zhǔnbèi,to prepare
-- 懂,Dǒng,to understand
+- 懂,dǒng,to understand
+- 读,dú,read
+- 写,xiě,write
 - 告诉,gàosù,tell
 - 笑,xiào,laugh
 - 帮助,bāngzhù,help
 - 用,yòng,use
 - 能,néng,can
-- 离,lí,to be away from
 - 说话,shuōhuà,speak
 - 觉得,juédé,think/feel
 - 休息,xiūxí,to rest
 - 要,yào,want
 - 希望,xīwàng,to hope/to wish
 - 回去,huíqu,to go back
-- 送,sòng,to give (as a present)
+- 送,sòng,to give (as a present)/drop off
 - 旅行,lǚxíng,to travel
 - 散步,sànbù,to go for a walk
 - 打球,dǎqiú,play
 - 生活,shēnghuó,to live/life
 - 进步,jìnbù,to make progress
 - 交朋友,jiāo péngyǒu,to make friends
+- 喜欢,xǐhuan,like
+- 爱,ài,love
+- 听,tīng,listen
+- 坐,zuò,sit
+- 等,děng,wait
+- 问,wèn,ask
+- 进,jìn,enter
+- 出,chū,out
+- 跑步,pǎobù,run
+- 到,dào.arrive
+- 让,ràng,let
+- 起床,qǐchuáng,get up
+- 上班,shàngbān,work
+- 累,lèi,tired
+- 生病,shēngbìng,sick
+- 游泳,yóuyǒng,swim
+- 穿,chuān,wear
+- 洗,xǐ,wash
+- 给,gěi,give
+- 买,mǎi,buy
+- 找,zhǎo,look for
+- 开始,kāishǐ,start
+- 介绍,jièshào,introduce
+
 * advererb
 - 一起,Yīqǐ,together
 - 再,zài,again
@@ -94,6 +122,9 @@
 - 大家,dàjiā,everyone
 * preposition
 - 从,cóng,from
+- 比,bǐ,comparing to
+- 向,xiàng,towards
+- 离,lí,to be away from
 * aux.
 - 可能,kěnéng,probably
 - 可以,kěyǐ,may
@@ -104,6 +135,8 @@
 - 矮,ǎi,short
 - 新,xīn,new
 - 开心,kāixīn,happy/joyful
+- 贵,guì,expensive
+- 便宜,piányí,cheap
 * toys
 - 玩具,wánjù,toy
 - 皮球,píqiú,ball
@@ -152,7 +185,7 @@
 - 双手,shuāngshǒu,hands
 - 手指,shǒuzhǐ,finger
 - 脖子,bózi,neck
-- 腿,tuǐ,eg
+- 腿,tuǐ,leg
 - 双腿,shuāng tuǐ,legs
 - 脚,jiǎo,foot
 - 双脚,shuāng jiǎo,feet
@@ -232,6 +265,7 @@
 * other
 - 外面,wàimian,outside
 * nouns
+- 船,chuán,boat
 - 报纸,bàozhǐ,newspaper
 - 车站,chēzhàn,station
 - 火车站,huǒchē zhàn,train station
@@ -241,6 +275,8 @@
 - 手机,shǒujī,chellphone
 - 时间,shíjiān,time
 - 事情,shìqíng,matter
+- 音乐,yīnyuè,music
+- 电影,diànyǐng,movie
 * num
 - 两,liǎng,two
 - 杯,bēi,cup
